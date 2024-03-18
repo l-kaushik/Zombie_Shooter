@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Content/_Main/Zombie/** filter=lfs diff=lfs merge=lfs -text
+Content/AutomotiveBridgeScene/Material/** filter=lfs diff=lfs merge=lfs -text
+Content/AutomotiveBridgeScene/Meshes/** filter=lfs diff=lfs merge=lfs -text
+Content/AutomotiveBridgeScene/Textures/** filter=lfs diff=lfs merge=lfs -text
+Content/FPWeapon/** filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/** filter=lfs diff=lfs merge=lfs -text
+Content/Meshes/** filter=lfs diff=lfs merge=lfs -text
+Content/MilitaryWeapSilver/** filter=lfs diff=lfs merge=lfs -text
+Content/Realistic_Starter_VFX_Pack_Vol2/** filter=lfs diff=lfs merge=lfs -text
+Content/VigilanteContent/** filter=lfs diff=lfs merge=lfs -text
